@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackContext, CallbackQ
 import time
 
 # Замените на свой Telegram Bot токен
-TELEGRAM_TOKEN = '8043862059:AAEPhlASBOas956j3D0-ldloyIU3X8Ow4Uk'
+TELEGRAM_TOKEN = 'BOT_TOKEN'
 
 # URL для получения курсов криптовалют (CoinGecko API)
 COINGECKO_API_URL = 'https://api.coingecko.com/api/v3/simple/price'
